@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConvertorPravil</string>
+    <string name="from_currency_prompt">Выберите исходную валюту</string>
+    <string name="to_currency_prompt">Выберите целевую валюту</string>
+    <string-array name="currencies">
+        <item>Рубли</item>
+        <item>Доллары</item>
+        <item>Евро</item>
+    </string-array>
+</resources>
